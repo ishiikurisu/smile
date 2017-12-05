@@ -7,6 +7,12 @@ function thinkOfAReason() {
 function getOptions() {
     return [
         'Tem alguém neste planeta que te ama!',
+        'Você fica linda sorrido!',
+        'Que tal comer alguma coisa gostosa?',
+        'Tampe o nariz e diga "Dibiti Bobiti"',
+        '<a href="https://gph.is/2cv3xQY">Este</a> GIF',
+        'Tente fazer alguém feliz!',
+        'Eu sei que você tem um pet fofo querendo atenção!',
         'Você ainda tem que encher seu porquinho!'
     ]
 }
