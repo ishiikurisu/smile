@@ -22,6 +22,11 @@ function getOptions() {
         'Já considerou caminhar a Te Araroa?',
         'Acredite se quiser: os olhos de alguém brilham ao te ver.',
         'Faça um Origami de borboleta para dar para alguém que você gosta.',
+        'Que tal decorar seu quarto?',
+        'As férias estão longe? Mais tempo para planejar aquela praia!',
+        'Ainda tem espaço no seu caderno para mais um desenho.',
+        'Alguém por aí quer ter uma conversa profunda contigo. Já encontrou essa pessoa?',
+        'Qual foi o último amigo que você fez? Que tal falar com ele?',
         'E aquelas pessoas que são gratas por poder passar um tempinho contigo? '
     ]
 }
